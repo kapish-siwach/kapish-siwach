@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kapish</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/kapishsiwach" target="blank"><img src="https://img.shields.io/twitter/follow/kapishsiwach?logo=twitter&style=for-the-badge" alt="kapishsiwach" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **.net**
 
 - 👨‍💻 All of my projects are available at [https://kapish-siwach.github.io/Portfolio/index.html](https://kapish-siwach.github.io/Portfolio/index.html)
 
-- 💬 Ask me about **Android, Java, Kotlin, Retrofit API, HTML5, CSS3, JavaScript**
+- 💬 Ask me about **Android, Flutter, Dart, Java, Kotlin, Bloc, GetX, SQL, SSMS, Retrofit API, HTML5, CSS3, JavaScript**
 
 - 📫 How to reach me **kapishsiwach2003@gmail.com**
 
